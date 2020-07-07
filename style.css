@@ -1,0 +1,37 @@
+.orange-bg {
+    background-color: #fceae8;
+}
+.price {
+    color: red;
+}
+.buy-now {
+    background-color: red;
+    color: white;
+    padding: 1%;
+    border-radius: 15px;
+}
+.cat1 .cat2 .cat3 {
+    padding: 10px 30px;
+}
+.cat1 {
+    background-color: orange;
+}
+.cat2 {
+    background-color: orchid;
+}
+.cat3 {
+    background-color: blue;
+}
+.categories h1 {
+    color: whi;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe {
+    height: 300px;
+}
+footer {
+    text-align: center;
+}
